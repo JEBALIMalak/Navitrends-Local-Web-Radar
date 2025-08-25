@@ -18,7 +18,7 @@ class WebRadarETL:
         default_config = {
             "timeout": 30,
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-            "google_api_key": "zaSyCmXDxj0uo4dJGXRxOPAGvLw_Vf87avW5U",
+            "google_api_key": "",
             "max_retries": 2,
             "retry_delay": 1
         }

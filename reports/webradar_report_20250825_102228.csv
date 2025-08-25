@@ -1,0 +1,35 @@
+url,score,country,sector,issues_count,created_at
+https://www.edf.fr,80,France,technologie,3,2025-08-25 09:21:26
+https://www.service-public.fr,80,France,technologie,3,2025-08-25 09:21:25
+https://www.gouvernement.fr,80,France,general,3,2025-08-25 09:21:25
+https://www.saudiaramco.com,0,Unknown,Unknown,1,2025-08-25 09:21:20
+https://www.zain.sa,0,Unknown,Unknown,0,2025-08-25 09:20:31
+https://www.spa.gov.sa,0,Unknown,Unknown,0,2025-08-25 09:20:30
+https://www.nhc.gov.sa,0,Unknown,Unknown,1,2025-08-25 09:20:27
+https://www.almajdouie.com,0,Unknown,Unknown,0,2025-08-25 09:20:27
+https://www.gouvernement.fr,80,France,general,3,2025-08-25 09:20:12
+https://www.edf.fr,80,France,technologie,3,2025-08-25 09:20:10
+https://www.service-public.fr,80,France,technologie,3,2025-08-25 09:20:10
+https://www.saudiaramco.com,0,Unknown,Unknown,1,2025-08-25 09:20:08
+https://www.zain.sa,80,International,technologie,3,2025-08-25 09:19:16
+https://www.spa.gov.sa,70,International,general,4,2025-08-25 09:19:12
+https://www.almajdouie.com,85,International,technologie,3,2025-08-25 09:19:09
+https://www.nhc.gov.sa,0,Unknown,Unknown,1,2025-08-25 09:19:06
+https://www.gouvernement.fr,0,Unknown,Unknown,0,2025-08-25 09:16:56
+https://www.edf.fr,0,Unknown,Unknown,0,2025-08-25 09:16:55
+https://www.service-public.fr,0,Unknown,Unknown,0,2025-08-25 09:16:55
+https://www.saudiaramco.com,0,Unknown,Unknown,1,2025-08-25 09:16:54
+https://www.zain.sa,0,Unknown,Unknown,0,2025-08-25 09:16:05
+https://www.spa.gov.sa,0,Unknown,Unknown,0,2025-08-25 09:16:00
+https://www.nhc.gov.sa,0,Unknown,Unknown,1,2025-08-25 09:15:52
+https://www.almajdouie.com,0,Unknown,Unknown,0,2025-08-25 09:15:52
+https://www.carrefour.fr,85,France,technologie,2,2025-08-25 09:06:22
+https://www.apple.com,85,International,technologie,2,2025-08-25 09:06:22
+https://www.eon.com,80,International,general,3,2025-08-25 09:06:21
+https://www.open.ac.uk,80,United Kingdom,general,3,2025-08-25 09:06:21
+https://www.roche.com,90,International,technologie,2,2025-08-25 09:06:21
+https://www.carrefour.fr,85,France,technologie,2,2025-08-25 08:43:56
+https://www.apple.com,85,International,technologie,2,2025-08-25 08:43:54
+https://www.eon.com,80,International,general,3,2025-08-25 08:43:54
+https://www.roche.com,90,International,technologie,2,2025-08-25 08:43:54
+https://www.open.ac.uk,80,United Kingdom,general,3,2025-08-25 08:43:53

@@ -1,0 +1,48 @@
+{
+  "generation_date": "2025-08-25T08:43:26.647508",
+  "statistics": {
+    "total_analyses": 2,
+    "average_score": 88.5,
+    "by_country": {
+      "France": {
+        "count": 1,
+        "average_score": 85
+      },
+      "International": {
+        "count": 1,
+        "average_score": 92
+      }
+    },
+    "by_sector": {
+      "technologie": {
+        "count": 1,
+        "average_score": 85
+      },
+      "education": {
+        "count": 1,
+        "average_score": 92
+      }
+    }
+  },
+  "analyses": [
+    {
+      "url": "https://example.com",
+      "score": 85,
+      "country": "France",
+      "sector": "technologie",
+      "issues": [
+        "HTTPS manquant",
+        "Titre trop long"
+      ],
+      "created_at": "2024-01-15 10:30:00"
+    },
+    {
+      "url": "https://test.org",
+      "score": 92,
+      "country": "International",
+      "sector": "education",
+      "issues": [],
+      "created_at": "2024-01-15 11:45:00"
+    }
+  ]
+}

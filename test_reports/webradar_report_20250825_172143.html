@@ -1,0 +1,124 @@
+
+        <!DOCTYPE html>
+        <html lang="fr">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>WebRadar - Rapport d'Analyses</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 40px; background-color: #f5f5f5; }
+                .header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px; border-radius: 10px; margin-bottom: 30px; }
+                .stats-card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); margin-bottom: 20px; }
+                .analysis-card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); margin-bottom: 15px; }
+                .score { font-size: 24px; font-weight: bold; }
+                .good { color: #28a745; }
+                .medium { color: #ffc107; }
+                .bad { color: #dc3545; }
+                .issues-list { background: #f8f9fa; padding: 15px; border-radius: 5px; margin-top: 10px; }
+                .issue-item { margin: 5px 0; padding: 5px; border-left: 3px solid #dc3545; background: #fff3f3; }
+                table { width: 100%; border-collapse: collapse; margin: 15px 0; }
+                th, td { padding: 12px; text-align: left; border-bottom: 1px solid #ddd; }
+                th { background-color: #667eea; color: white; }
+                tr:hover { background-color: #f5f5f5; }
+            </style>
+        </head>
+        <body>
+            <div class="header">
+                <h1>📊 WebRadar - Rapport d'Analyses</h1>
+                <p>Généré le 2025-08-25 17:21:43</p>
+            </div>
+
+            <div class="stats-card">
+                <h2>📈 Statistiques Globales</h2>
+                <p><strong>Total d'analyses:</strong> 2</p>
+                <p><strong>Score moyen:</strong> <span class="score good">88.5/100</span></p>
+            </div>
+
+            
+            <div class="stats-card">
+                <h2>🌍 Analyses par Pays</h2>
+                <table>
+                    <tr>
+                        <th>Pays</th>
+                        <th>Nombre d'analyses</th>
+                        <th>Score moyen</th>
+                    </tr>
+                    
+                    <tr>
+                        <td>France</td>
+                        <td>1</td>
+                        <td class="good">85/100</td>
+                    </tr>
+                    
+                    <tr>
+                        <td>International</td>
+                        <td>1</td>
+                        <td class="good">92/100</td>
+                    </tr>
+                    
+                </table>
+            </div>
+            
+
+            
+            <div class="stats-card">
+                <h2>🏢 Analyses par Secteur</h2>
+                <table>
+                    <tr>
+                        <th>Secteur</th>
+                        <th>Nombre d'analyses</th>
+                        <th>Score moyen</th>
+                    </tr>
+                    
+                    <tr>
+                        <td>technologie</td>
+                        <td>1</td>
+                        <td class="good">85/100</td>
+                    </tr>
+                    
+                    <tr>
+                        <td>education</td>
+                        <td>1</td>
+                        <td class="good">92/100</td>
+                    </tr>
+                    
+                </table>
+            </div>
+            
+
+            <h2>📋 Détail des Analyses</h2>
+            
+            <div class="analysis-card">
+                <h3><a href="https://example.com" target="_blank">https://example.com</a></h3>
+                <p><strong>Score:</strong> <span class="score good">85/100</span></p>
+                <p><strong>Pays:</strong> France</p>
+                <p><strong>Secteur:</strong> technologie</p>
+                <p><strong>Date:</strong> 2024-01-15 10:30:00</p>
+                
+                
+                <div class="issues-list">
+                    <h4>⚠️ Problèmes détectés (2)</h4>
+                    
+                    <div class="issue-item">HTTPS manquant</div>
+                    
+                    <div class="issue-item">Titre trop long</div>
+                    
+                </div>
+                
+            </div>
+            
+            <div class="analysis-card">
+                <h3><a href="https://test.org" target="_blank">https://test.org</a></h3>
+                <p><strong>Score:</strong> <span class="score good">92/100</span></p>
+                <p><strong>Pays:</strong> International</p>
+                <p><strong>Secteur:</strong> education</p>
+                <p><strong>Date:</strong> 2024-01-15 11:45:00</p>
+                
+                
+                <p>✅ Aucun problème détecté</p>
+                
+            </div>
+            
+        </body>
+        </html>
+        
